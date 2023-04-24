@@ -1,0 +1,8 @@
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
+
+System Variables (python script path)
+
+pip install requests
+pip install facebook-sdk
+pip install nltk
